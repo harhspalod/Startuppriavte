@@ -173,7 +173,7 @@
       </div>
 
       <div class="mt-6 md:mt-2">
-        <a href="/contact_us">
+        <a href="/pricing">
           <button class="btn btn-primary btn-sm px-6"
             >⚡ Get Started with Startopia</button
           >
