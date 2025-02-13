@@ -17,7 +17,7 @@
     <ul class="menu menu-horizontal px-1 hidden sm:flex font-bold text-lg">
       <li class="md:mx-4">
         <a
-          href="https://github.com/CriticalMoments/CMSaasStarter"
+          href="https://www.instagram.com/startopia.in/"
           class="border border-primary">Social Media</a
         >
       </li>
@@ -71,7 +71,7 @@
       >
         <li>
           <a
-            href="https://github.com/CriticalMoments/CMSaasStarter"
+            href="https://www.instagram.com/startopia.in/"
             class="border border-primary">Social Media</a
           >
         </li>
