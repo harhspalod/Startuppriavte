@@ -53,10 +53,7 @@
         <li><a href="/account">Account</a></li>
         <li><a href="/search">Search</a></li>
         <li>
-          <a
-            href="https://github.com/CriticalMoments/CMSaasStarter"
-            class="border border-primary">★ us on Github</a
-          >
+          <a href="/" class="border border-primary">★ us on Github</a>
         </li>
       </ul>
     </div>
@@ -80,7 +77,7 @@
       <a class="link link-hover my-1" href="/pricing">Pricing</a>
       <a class="link link-hover my-1" href="/blog">Blog</a>
       <a class="link link-hover my-1" href="/contact_us">Contact Us</a>
-      <a class="link link-hover my-1" href="instagram.com">Social Media</a>
+      <a class="link link-hover my-1" href="/">Social Media</a>
     </nav>
     <aside>
       <span class="footer-title opacity-80">Message</span>

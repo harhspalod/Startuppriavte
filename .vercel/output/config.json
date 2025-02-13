@@ -1,0 +1,107 @@
+{
+	"version": 3,
+	"routes": [
+		{
+			"src": "/blog",
+			"dest": "/blog/"
+		},
+		{
+			"src": "/blog/",
+			"status": 308,
+			"headers": {
+				"Location": "/blog"
+			}
+		},
+		{
+			"src": "/blog/awesome_post",
+			"dest": "/blog/awesome_post/"
+		},
+		{
+			"src": "/blog/awesome_post/",
+			"status": 308,
+			"headers": {
+				"Location": "/blog/awesome_post"
+			}
+		},
+		{
+			"src": "/blog/example_blog_post",
+			"dest": "/blog/example_blog_post/"
+		},
+		{
+			"src": "/blog/example_blog_post/",
+			"status": 308,
+			"headers": {
+				"Location": "/blog/example_blog_post"
+			}
+		},
+		{
+			"src": "/blog/how_we_built_our_41kb_saas_website",
+			"dest": "/blog/how_we_built_our_41kb_saas_website/"
+		},
+		{
+			"src": "/blog/how_we_built_our_41kb_saas_website/",
+			"status": 308,
+			"headers": {
+				"Location": "/blog/how_we_built_our_41kb_saas_website"
+			}
+		},
+		{
+			"src": "/pricing",
+			"dest": "/pricing/"
+		},
+		{
+			"src": "/pricing/",
+			"status": 308,
+			"headers": {
+				"Location": "/pricing"
+			}
+		},
+		{
+			"src": "/search",
+			"dest": "/search/"
+		},
+		{
+			"src": "/search/",
+			"status": 308,
+			"headers": {
+				"Location": "/search"
+			}
+		},
+		{
+			"src": "/_app/immutable/.+",
+			"headers": {
+				"cache-control": "public, immutable, max-age=31536000"
+			}
+		},
+		{
+			"handle": "filesystem"
+		},
+		{
+			"src": "/.*",
+			"dest": "/fn"
+		}
+	],
+	"overrides": {
+		"index.html": {
+			"path": ""
+		},
+		"blog.html": {
+			"path": "blog"
+		},
+		"blog/awesome_post.html": {
+			"path": "blog/awesome_post"
+		},
+		"blog/example_blog_post.html": {
+			"path": "blog/example_blog_post"
+		},
+		"blog/how_we_built_our_41kb_saas_website.html": {
+			"path": "blog/how_we_built_our_41kb_saas_website"
+		},
+		"pricing.html": {
+			"path": "pricing"
+		},
+		"search.html": {
+			"path": "search"
+		}
+	}
+}

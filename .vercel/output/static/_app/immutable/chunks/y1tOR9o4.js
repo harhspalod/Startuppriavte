@@ -1,0 +1,1 @@
+const t="Startopia",e="https://startopia.in",a="Startopia helps startups build strong brands, execute high-impact marketing, generate quality leads,and scale sales with AI-powered automation Let’s accelerate your startup’s journey today.",s=!0;export{s as C,t as W,e as a,a as b};
