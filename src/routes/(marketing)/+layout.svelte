@@ -76,7 +76,15 @@
       <a class="link link-hover mb-1" href="/">Overview</a>
       <a class="link link-hover my-1" href="/pricing">Pricing</a>
       <a class="link link-hover my-1" href="/blog">Blog</a>
-      <a class="link link-hover my-1" href="/contact_us">Contact Us</a>
+
+      <a
+        class="link link-hover my-1"
+        href="https://mail.google.com/mail/?view=cm&fs=1&to=harshspalod@gmail.com&su=Startopia%20Collaboration%20Proposal&body=Hello%20Harsh,%0A%0AI%20am%20interested%20in%20Startopia's%20services%20for%20my%20startup.%20I%20would%20like%20to%20know%20more%20about%20how%20your%20team%20can%20help%20with:%0A%0A-%20Talent%20Acquisition%0A-%20Investor%20Connections%0A-%20Marketing%20and%20Branding%0A-%20AI-powered%20Automation%0A-%20Other%20Services%20(please%20specify)%0A%0AIt%20would%20be%20great%20to%20discuss%20further.%20Looking%20forward%20to%20your%20response.%0A%0AThanks,%0A[Your%20Name]%0A[Your%20Startup%20Name]"
+        target="_blank"
+      >
+        Contact Us
+      </a>
+
       <a class="link link-hover my-1" href="/">Social Media</a>
     </nav>
     <aside>
