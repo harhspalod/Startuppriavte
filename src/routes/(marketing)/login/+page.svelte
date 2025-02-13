@@ -1,5 +1,5 @@
 <svelte:head>
-  <title>Log In</title>
+  <title>Welcome</title>
 </svelte:head>
 
 <div>

@@ -23,7 +23,28 @@
       </li>
       <li class="md:mx-2"><a href="/blog">Blog</a></li>
       <li class="md:mx-2"><a href="/pricing">Pricing</a></li>
-      <li class="md:mx-2"><a href="/contact_us">Get in touch</a></li>
+      <li class="md:mx-2">
+        <a
+          href="https://mail.google.com/mail/?view=cm&fs=1&to=harshspalod@gmail.com
+                &su=Startopia%20Collaboration%20Proposal
+                &body=Hello%20Harsh,%0A%0A
+                I%20am%20interested%20in%20Startopia's%20services%20for%20my%20startup.%0A
+                I%20would%20like%20to%20know%20more%20about%20how%20your%20team%20can%20help%20with:%0A%0A
+                -%20Talent%20Acquisition%0A
+                -%20Investor%20Connections%0A
+                -%20Marketing%20and%20Branding%0A
+                -%20AI-powered%20Automation%0A
+                -%20Other%20Services%20(please%20specify)%0A%0A
+                It%20would%20be%20great%20to%20discuss%20further.%20Looking%20forward%20to%20your%20response.%0A%0A
+                Thanks,%0A
+                [Your%20Name]%0A
+                [Your%20Startup%20Name]"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Get in touch
+        </a>
+      </li>
     </ul>
     <div class="dropdown dropdown-end sm:hidden">
       <!-- svelte-ignore a11y_label_has_associated_control -->
@@ -48,12 +69,35 @@
         tabindex="0"
         class="menu menu-lg dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52 font-bold"
       >
+        <li>
+          <a
+            href="https://github.com/CriticalMoments/CMSaasStarter"
+            class="border border-primary">Social Media</a
+          >
+        </li>
         <li><a href="/blog">Blog</a></li>
         <li><a href="/pricing">Pricing</a></li>
-        <li><a href="/account">Account</a></li>
-        <li><a href="/search">Search</a></li>
         <li>
-          <a href="/" class="border border-primary">★ us on Github</a>
+          <a
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=harshspalod@gmail.com
+                &su=Startopia%20Collaboration%20Proposal
+                &body=Hello%20Harsh,%0A%0A
+                I%20am%20interested%20in%20Startopia's%20services%20for%20my%20startup.%0A
+                I%20would%20like%20to%20know%20more%20about%20how%20your%20team%20can%20help%20with:%0A%0A
+                -%20Talent%20Acquisition%0A
+                -%20Investor%20Connections%0A
+                -%20Marketing%20and%20Branding%0A
+                -%20AI-powered%20Automation%0A
+                -%20Other%20Services%20(please%20specify)%0A%0A
+                It%20would%20be%20great%20to%20discuss%20further.%20Looking%20forward%20to%20your%20response.%0A%0A
+                Thanks,%0A
+                [Your%20Name]%0A
+                [Your%20Startup%20Name]"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Get in touch
+          </a>
         </li>
       </ul>
     </div>

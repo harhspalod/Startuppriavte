@@ -309,8 +309,25 @@
               > plans to find the best fit for your startup.
             </div>
             <div class="mt-4 text-large">
-              <a href="/contact_us" target="_blank">
-                <button class="btn btn-primary btn-wide mt-3">Contact US</button
+              <a
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=harshspalod@gmail.com
+                    &su=Startopia%20Collaboration%20Proposal
+                    &body=Hello%20Harsh,%0A%0A
+                    I%20am%20interested%20in%20Startopia's%20services%20for%20my%20startup.%0A
+                    I%20would%20like%20to%20know%20more%20about%20how%20your%20team%20can%20help%20with:%0A%0A
+                    -%20Talent%20Acquisition%0A
+                    -%20Investor%20Connections%0A
+                    -%20Marketing%20and%20Branding%0A
+                    -%20AI-powered%20Automation%0A
+                    -%20Other%20Services%20(please%20specify)%0A%0A
+                    It%20would%20be%20great%20to%20discuss%20further.%20Looking%20forward%20to%20your%20response.%0A%0A
+                    Thanks,%0A
+                    [Your%20Name]%0A
+                    [Your%20Startup%20Name]"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button class="btn btn-primary btn-wide mt-3">Contact Us</button
                 >
               </a>
             </div>
