@@ -281,7 +281,7 @@
           <a href="/" target="_blank" class="link">
             <div class="card shadow-xl border overflow-hidden">
               <img
-                alt="Startopians image"
+                alt="Startopians"
                 class="aspect-[2044/1242]"
                 src="images/example-home.png"
               />
