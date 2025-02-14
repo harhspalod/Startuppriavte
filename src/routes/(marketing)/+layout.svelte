@@ -24,7 +24,7 @@
       <li class="md:mx-2"><a href="/blog">Blog</a></li>
       <li class="md:mx-2"><a href="/pricing">Pricing</a></li>
       <li class="md:mx-2">
-        <a href="contact_us" rel="noopener noreferrer"> Get in touch </a>
+        <a href="/contact_us" rel="noopener noreferrer"> Get in touch </a>
       </li>
     </ul>
     <div class="dropdown dropdown-end sm:hidden">
