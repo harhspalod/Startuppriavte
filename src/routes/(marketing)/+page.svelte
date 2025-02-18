@@ -30,7 +30,7 @@
     },
     {
       name: "SEO",
-      link: "#",
+      link: "/blog/Saasblog",
       linkText: "Blog",
       description:
         "Rank higher, drive organic traffic, and boost visibility with expert search optimization.",

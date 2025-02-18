@@ -28,7 +28,7 @@
     Insights, Strategies, and Growth Hacks – Empowering Startups with Knowledge
   </div>
 
-  <!-- {#each sortedBlogPosts as post}
+  {#each sortedBlogPosts as post}
     <a href={post.link}>
       <div class="card my-6 bg-white shadow-xl flex-row overflow-hidden">
         <div class="flex-none w-6 md:w-32 bg-secondary"></div>
@@ -45,5 +45,5 @@
         </div>
       </div>
     </a>
-  {/each} -->
+  {/each}
 </div>
