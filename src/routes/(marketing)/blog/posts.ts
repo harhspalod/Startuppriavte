@@ -21,6 +21,13 @@ const blogPosts: BlogPost[] = [
     link: "/blog/Saasblog",
     date: "2025-02-18",
   },
+  {
+    title: "Ai in 2025: Integrate Ai to your life style",
+    description:
+      "Want chatbots according to your requirements and needs? Learn the latest Ai strategies, tips, and hacks to boost your website traffic and stay ahead of the competition!",
+    link: "/blog/AiBlog",
+    date: "2025-03-04",
+  },
 ]
 
 // Parse post dates from strings to Date objects

@@ -115,7 +115,7 @@
     },
     {
       name: "AI Chatbots & Automation",
-      link: "#",
+      link: "blog/AiBlog",
       description:
         "Automate customer interactions and streamline sales with AI-powered chatbots.",
       linkText: "Blog",
