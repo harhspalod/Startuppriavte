@@ -22,6 +22,13 @@ const blogPosts: BlogPost[] = [
     date: "2025-02-18",
   },
   {
+    title: "SEO in 2025: The Ultimate Guide to Ranking #1 on Google",
+    description:
+      "Want to rank #1 on Google? Learn the latest SEO strategies, tips, and hacks to boost your website traffic and stay ahead of the competition!",
+    link: "/blog/Saasblog",
+    date: "2025-02-18",
+  },
+  {
     title: "Ai in 2025: Integrate Ai to your life style",
     description:
       "Want chatbots according to your requirements and needs? Learn the latest Ai strategies, tips, and hacks to boost your website traffic and stay ahead of the competition!",
