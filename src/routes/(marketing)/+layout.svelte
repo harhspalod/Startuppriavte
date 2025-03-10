@@ -21,7 +21,7 @@
           class="border border-primary">Social Media</a
         >
       </li>
-      <li class="md:mx-2"><a href="/upcoming">Blog</a></li>
+      <li class="md:mx-2"><a href="/upcoming">Update</a></li>
       <li class="md:mx-2"><a href="/blog">Blog</a></li>
       <li class="md:mx-2"><a href="/pricing">Pricing</a></li>
       <li class="md:mx-2">
