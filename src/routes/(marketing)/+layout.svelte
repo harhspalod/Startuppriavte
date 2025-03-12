@@ -57,6 +57,8 @@
             class="border border-primary">Social Media</a
           >
         </li>
+        <li class="md:mx-2"><a href="/upcoming">Update</a></li>
+
         <li><a href="/blog">Blog</a></li>
         <li><a href="/pricing">Pricing</a></li>
         <li>
